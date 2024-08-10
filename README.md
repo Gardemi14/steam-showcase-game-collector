@@ -5,6 +5,12 @@ to add any game to the steam showcase, change only the appid. If you want to add
 
 
 
+Slot:
+
+0 = first game
+1 = second game
+2 = third game
+3 = fourth game
 
 ```javascript
 $J.post(g_rgProfileData.url + "ajaxsetshowcaseconfig", {
