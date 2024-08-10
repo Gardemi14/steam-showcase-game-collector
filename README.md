@@ -1,4 +1,4 @@
-# steam-game-collector-
+# steam-showcase-game-collector
 add any game to steam game collector 
 
 to add any game to the steam showcase, change only the appid. If you want to add a purchase shop showcase, you need to change the purchaseid as well
