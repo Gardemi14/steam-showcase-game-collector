@@ -6,7 +6,8 @@ to add any game to the steam showcase, change only the appid. If you want to add
 
 
 
-$J.post( g_rgProfileData.url + "ajaxsetshowcaseconfig", {
+```javascript
+$J.post(g_rgProfileData.url + "ajaxsetshowcaseconfig", {
     appid: 359850,
     customization_type: 2,
     purchaseid: 0,
